@@ -1,6 +1,6 @@
 # Паттерн Одиночка
 ## Классическая реализация паттерна Одиночка
-![Kartinka1]()
+![Kartinka1](https://github.com/Kezhik-61/Singleton/blob/master/img/5.PNG?raw=true)
 ## Паттерны для	всех
 
  **_Интервью недели: Признания Одиночки_**
@@ -66,7 +66,7 @@ O-Holic — мощным высокопроизводительным нагре
 избежать некоторых неприятностей — скажем, слива холодной смеси, перепол-
 нения или нагревания пустой емкости!
 
-![Kartink2](https://github.com/Kezhik-61/Kezhik/blob/master/img/6.PNG?raw=true)
+![Kartink2](https://github.com/Kezhik-61/Singleton/blob/master/img/6.PNG?raw=true)
 
 ## Определение паттерна Одиночка
 
