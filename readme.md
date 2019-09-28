@@ -96,6 +96,7 @@ O-Holic — мощным высокопроизводительным нагре
 шими затратами ресурсов.
 
 **Обратимся к диаграмме классов:**
+![Kartinka3](https://github.com/Kezhik-61/Singleton/blob/master/img/7.PNG?raw=true)
 
 
 
